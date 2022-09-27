@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruchika Sharma</h1>
 <h3 align="center">A passionate self-taught full stack web developer .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchi-002&label=Profile%20views&color=0e75b6&style=flat" alt="ruchi-002" /> <br> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchi-002&label=Profile%20views&color=0e75b6&style=flat" alt="ruchi-002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-002" alt="ruchi-002" /></a> <br> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-002" alt="ruchi-002" /></a>  </p>
 <p> hi, I'm Ruchika Sharma. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
 
 - 🔭  I take great care in the experience, architecture, and code quality of the things I build.
