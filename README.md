@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://www.linkedin.com/in/er-ruchika-sharma" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.linkedin.com/in/er-ruchika-sharma?logo=twitter&style=for-the-badge" alt="https://www.linkedin.com/in/er-ruchika-sharma" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks, courses.**
+- 🌱 I’m currently learning **Frameworks.**
 
 - 🤝 I'm currently working on **React, Next.Js**
 
