@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-002" alt="ruchi-002" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://www.linkedin.com/in/er-ruchika-sharma" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.linkedin.com/in/er-ruchika-sharma?logo=twitter&style=for-the-badge" alt="https://www.linkedin.com/in/er-ruchika-sharma" /></a> </p>
-
+- 🔭  I take great care in the experience, architecture, and code quality of the things I build.**
 - 🌱 I’m currently learning **Frameworks.**
-
+- 
 - 🤝 I'm currently working on **React, Next.Js**
 
 - 💬 Ask me about **HTML,CSS ,Javascript , React .**
