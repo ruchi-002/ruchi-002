@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchi-002&label=Profile%20views&color=0e75b6&style=flat" alt="ruchi-002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-002" alt="ruchi-002" /> <br> </a>  </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-002" alt="ruchi-002" /></a> <br>  </p>
 <p> hi, I'm Ruchika Sharma. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="500"/>
 
