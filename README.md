@@ -1,3 +1,4 @@
+<div style="background-color:white;">
 <h1 align="center">Hi 👋, I'm Ruchika Sharma</h1>
 <h3 align="center">A passionate self-taught full stack web developer .</h3>
 
@@ -29,3 +30,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchi-002&show_icons=true&locale=en" alt="ruchi-002" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchi-002&" alt="ruchi-002" /> </p>
+ </div>
