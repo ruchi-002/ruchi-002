@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-002" alt="ruchi-002" /></a>  </p>
 <p> hi, I'm Ruchika Sharma. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
+<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500"/>
 
 - 🔭  I take great care in the experience, architecture, and code quality of the things I build.
 - 🌱 I’m currently learning **Frameworks.**
